@@ -42,7 +42,6 @@ Search the learning path for the following courses.  Filter them by "Learning Pa
 - Use slides in [./machine-learning](./machine-learning)
 - Use slides in [./machine-learning-in-production](./machine-learning-in-production)
 - Use the notebooks provided by learning plan
-- Use the notebooks provided by learning plan
 
 ## Spark Developer 
 
