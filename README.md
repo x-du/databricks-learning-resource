@@ -46,7 +46,7 @@ Search the learning path for the following courses.  Filter them by "Learning Pa
 ## Spark Developer 
 
 - Study "Apache Spark Developer Learning Plan"
-- Study Book [Learn Spark 2.0](./spark/LearnSpark2.0.pdf)
+- Study Book [Learn Spark 2.0](./spark/LearningSpark2.0.pdf)
 - Use slides in [./spark](./spark)
 - Get familiar with documentation for pyspark.sql, pyspark.sql.functions. 
 
